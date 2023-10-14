@@ -1,0 +1,23 @@
+.contenedor{
+    padding: 2%;
+    
+    width: 60%;
+   
+}
+.encabezado{
+    text-align: center;
+
+}
+.secciones{
+    padding-top: 2%;
+    
+}
+.datos{
+    display: flex;
+}
+.contacto{
+width: 55%;
+}
+.educacion{
+width: 45%;
+}
